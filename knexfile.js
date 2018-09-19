@@ -11,7 +11,6 @@ module.exports = {
       user : settings.user,
       password : settings.password,
       database : settings.database,
-      filename: './dev.pg'
     }
   },
 
