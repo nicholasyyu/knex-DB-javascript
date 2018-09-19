@@ -13,7 +13,7 @@ var knex = require('knex')({
     }
 });
 
-const inputData = process.argv.slice(2)
+const inputData = process.argv.slice(2);
 
 console.log(inputData);
 
